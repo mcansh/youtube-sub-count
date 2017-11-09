@@ -28,6 +28,6 @@
   },
   "now": {
     "alias": "subscribers.loganmcansh.com",
-    "dotenv": "env.production"
+    "dotenv": ".env.production"
   }
 }
